@@ -27,6 +27,7 @@ Regardless whether you want to create a Travel Blog or an e-commerce shop to sel
 <a href="https://npmcharts.com/compare/mdbootstrap?minimal=true"> <img src="https://img.shields.io/npm/dm/mdbootstrap.svg?label=NPM%20Downloads" alt="Downloads"></a>
 <a href="https://github.com/mdbootstrap/bootstrap-material-design/blob/master/License.pdf"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
 <a href="https://x.com/intent/post?text=Thanks+%40mdbootstrap+for+creating+amazing+and+free+Material+Design+for+Bootstrap+5+UI+KIT+https%3A%2F%2Fmdbootstrap.com%2Fdocs%2Fjquery%2F&hashtags=javascript%2Ccode%2Cwebdesign%2Cbootstrap"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Let%20us%20know%20you%20were%20here%21&"></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2Fmdb-ui-kit?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2Fmdb-ui-kit.svg?type=shield"/></a>
 <a href="https://mdbootstrap.com/learn/mdb-foundations/basics/introduction/">
   <img src="https://img.shields.io/static/v1?label=MDBootstrap&message=Tutorial&labelColor=007bff&color=ffffff&logoColor=007bff&textColor=000000" alt="MDBootstrap tutorial">
 </a></p>
@@ -78,6 +79,9 @@ Trusted by <b>3 000 000+</b> developers & designers. Used by companies & institu
 </table>
 
 ___
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2Fmdb-ui-kit.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2Fmdb-ui-kit?ref=badge_large)
 
 # Bootstrap 5 tutorial
 
